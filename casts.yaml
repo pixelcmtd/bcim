@@ -1,0 +1,540 @@
+- name: BisaCast
+  casts:
+    - num: 39
+      title: Die Abschiedsfeier
+      download: http://www.bisacast.de/wp-content/uploads/2013/08/BisaCast_39_Die-Abschiedsfeier.mp3
+- name: BisaCast 2.0
+  casts:
+    - num: 10
+      title: Pokémon in Bewegung
+      download: http://www.bisacast.de/wp-content/uploads/2012/04/BisaCast10-Pokemon-in-Bewegung.mp3
+    - num: 12
+      title: Pokéball Mania
+      download: http://www.bisacast.de/wp-content/uploads/2012/04/BisaCast12-Pokeball-Mania.mp3
+    - num: 14
+      title: Unter den Tisch gefallen
+      download: http://www.bisacast.de/wp-content/uploads/2012/04/BisaCast14-Unter-den-Tisch-gefallen.mp3
+    - num: 15
+      title: Cast der gebannten Dinge
+      download: http://www.bisacast.de/wp-content/uploads/2012/04/BisaCast15_der_gebannten_Dinge.mp3
+    - num: 16
+      title: Fanfiction
+      download: http://www.bisacast.de/wp-content/uploads/2012/05/BisaCast16-Fanfiction.mp3
+- name: BisaCast Lv. 3
+  casts:
+    - num: 1
+      title: Warum spielen wir?
+      site: http://www.bisacast.de/2012/06/bisacast-1-warum-spielen-wir-pokemon/
+      download: http://www.bisacast.de/wp-content/uploads/2012/06/BisaCast3_1_Warum_spielen_wir_pokemon.mp3
+    - num: 2
+      title: "„Und jetzt: Das Wetter“"
+      site: http://www.bisacast.de/2012/06/bisacast-2-und-jetzt-das-wetter/
+      download: http://www.bisacast.de/wp-content/uploads/2012/06/BisaCast2-Wetter.mp3
+    - num: 3
+      title: In der Küche der Gerüchte
+      site: http://www.bisacast.de/2012/07/bisacast-3-in-der-kuche-der-geruchte/
+      download: http://www.bisacast.de/wp-content/uploads/2012/07/BisaCast3_geruechte.mp3
+    - num: 4
+      title: Die hoh(l)e Kunst der Pokémon Zucht
+      site: http://www.bisacast.de/2012/07/bisacast-4-die-hohle-kunst-der-pokemon-zucht/
+      download: http://www.bisacast.de/wp-content/uploads/2012/07/BCLv3_4_Die-hohle-Kunst-der-Pokemon-Zucht.mp3
+    - num: 5
+      title: Konflikt der Generationen
+      site: http://www.bisacast.de/2012/08/bisacast-5-konflikt-der-generationen/
+      download: http://www.bisacast.de/wp-content/uploads/2012/08/BisaCast5-Konflikt-der-Generationen.mp3
+    - num: 6
+      title: Nuzlocke und andere Challenges
+      site: http://www.bisacast.de/2012/08/bisacast-6-nuzlocke-und-andere-challenges/
+      download: http://www.bisacast.de/wp-content/uploads/2012/08/BisaCast6-Nuzlocke-und-andere-Challenges.mp3
+    - num: 7
+      title: Japanspezial – Nihon kara konnichiwa!
+      site: http://www.bisacast.de/2012/08/bisacast-7-japanspezial-nihon-kara-konnichiwa/
+      youtube: -WOhotdtU7Y
+    - num: 8
+      title: Japanspezial – Tokyo no Pokemon!
+      site: http://www.bisacast.de/2012/09/japanspezial-teil-2/
+      youtube: NsK-1e8ZcUM
+    - num: 9
+      title: Teamkomplex
+      site: http://www.bisacast.de/2012/09/bisacast-9-teamkomplex/
+      download: http://www.bisacast.de/wp-content/uploads/2012/09/Cast-9-Teamkomplex.mp3
+    - num: 10
+      title: Outside the module!
+      site: http://www.bisacast.de/2012/11/bisacast-10-outside-the-module/
+      download: http://www.bisacast.de/wp-content/uploads/2012/11/Cast-10-Finito.mp3
+    - num: 11
+      title: Pokémon Manga
+      site: http://www.bisacast.de/2012/11/bisacast-11-pokemon-manga/
+      download: http://www.bisacast.de/wp-content/uploads/2012/11/Cast-11-Pokemon-Manga.mp3
+    - num: 12
+      title: Geschenkte Pokémon
+      site: http://www.bisacast.de/2012/12/bisacast-12-geschenkte-pokemon/
+      download: http://www.bisacast.de/wp-content/uploads/2012/12/Cast-12-Geschenkte-Pokemon.mp3
+    - num: 13
+      title: Aftershow Party
+      site: http://www.bisacast.de/2012/12/aftershow-party-we-are-still-alive/
+      download: http://www.bisacast.de/wp-content/uploads/2012/12/WeltuntergangsAftershowpartyCast.mp3
+    - num: 14
+      title: „Ich will der Allerbeste sein“
+      site: http://www.bisacast.de/2013/01/bisacast-14-ich-will-der-allerbeste-sein/
+      download: http://www.bisacast.de/wp-content/uploads/2013/01/Cast14_DerAllerbeste.mp3
+    - num: 15
+      title: Competitive Play
+      site: http://www.bisacast.de/2013/01/bisacast-15-competitive-play/
+      download: http://www.bisacast.de/wp-content/uploads/2013/01/Bisacast-15.mp3
+    - num: 16
+      title: “Haha, du spielst ja noch Pokémon!”
+      site: http://www.bisacast.de/2013/02/bisacast-16-haha-du-spielst-ja-noch-pokemon/
+      download: http://www.bisacast.de/wp-content/uploads/2013/02/Bisacast16Mobbing.mp3
+    - num: 17
+      title: Trainerklassen
+      site: http://www.bisacast.de/2013/03/bisacast-17-trainerklassen/
+      download: http://www.bisacast.de/wp-content/uploads/2013/02/Cast-17.mp3
+    - num: 18
+      title: Drüber, drunter, Pokédex!
+      site: http://www.bisacast.de/2013/03/bisacast-18-druber-drunter-pokedex/
+      download: http://www.bisacast.de/wp-content/uploads/2013/03/Cast-18-Pokedex.mp3
+    - num: 19
+      title: Pokémon Mystery Dungeon
+      site: http://www.bisacast.de/2013/03/bisacast-19-pokemon-mystery-dungeon/
+      download: http://www.bisacast.de/wp-content/uploads/2013/03/BisaCast19_PMD.mp3
+    - num: 20
+      title: Bugs, Glutches und Trucks
+      site: http://www.bisacast.de/2013/04/bisacast-20-bugs-glutches-und-tricks/
+      download: http://www.bisacast.de/wp-content/uploads/2013/04/Cast-20-I-am-Error.mp3
+    - num: 21
+      title: TCG („Two Confused Gamers“)
+      site: http://www.bisacast.de/2013/04/bisacast-21-tcg-two-confused-gamers/
+      download: http://www.bisacast.de/wp-content/uploads/2013/04/Cast21_TCG.mp3
+    - num: 22
+      title: Wie stellen “wir” ein sinnvolles Team auf?
+      site: http://www.bisacast.de/2013/05/unsere-teams/
+      download: http://www.bisacast.de/wp-content/uploads/2013/05/Cast22_BisaTeam.mp3
+    - num: 23
+      title: Cosplay
+      site: http://www.bisacast.de/2013/05/bisacast-23-cosplay/
+      download: http://www.bisacast.de/wp-content/uploads/2013/05/Cast23-Cosplay.mp3
+    - num: 24
+      title: Was lernt man aus Pokémon?
+      site: http://www.bisacast.de/2013/06/bisacast-24-was-lernt-man-aus-pokemon/
+      download: http://www.bisacast.de/wp-content/uploads/2013/06/Cast24_Lernen.mp3
+    - num: 25
+      title: Alle meine Freunde – aka NPCs
+      site: http://www.bisacast.de/2013/06/bisacast-25-alle-meine-freunde-aka-npcs/
+      download: http://www.bisacast.de/wp-content/uploads/2013/06/Cast25_NPC.mp3
+    - num: 26
+      title: Basis-Items
+      site: http://www.bisacast.de/2013/08/bisacast-26-basis-items/
+      download: http://www.bisacast.de/wp-content/uploads/2013/07/BiCaLv3-26-Basis-Item1.mp3
+    - num: 27
+      title: Game Caster
+      site: http://www.bisacast.de/2013/08/bisacast-27-gamecaster/
+      download: http://www.bisacast.de/wp-content/uploads/2013/08/Cast27_GameCaster.mp3
+    - num: 28
+      title: Geschichtsunterricht mit dem BisaCast
+      site: http://www.bisacast.de/2013/08/bisacast-28-geschichtsunterricht-mit-dem-bisacast/
+      download: http://www.bisacast.de/wp-content/uploads/2013/08/Cast-28-History-of-Nintendo.m4a
+    - num: 29.1
+      title: Frag doch mal den BisaCast – Teil 1
+      site: https://www.bisacast.de/2013/09/bisacast-29-frag-doch-mal-den-cast/
+      download: http://www.bisacast.de/wp-content/uploads/2013/09/Cast29-Team.mp3
+    - num: 29.2
+      title: Frag doch mal den BisaCast – Teil 2
+      site: http://www.bisacast.de/2013/09/bisacast-29-teil-2/
+      download: http://www.bisacast.de/wp-content/uploads/2013/09/Cast29-NCS.mp3
+    - num: 29.3
+      title: Frag doch mal den BisaCast – Teil 3
+      site: http://www.bisacast.de/2013/09/bisacast-29-teil-3/
+      download: http://www.bisacast.de/wp-content/uploads/2013/09/Cast29-BM.mp3
+    - num: 30
+      title: Fälschungssicher
+      site: http://www.bisacast.de/2013/09/bisacast-30-faelschungssicher/
+      download: http://www.bisacast.de/wp-content/uploads/2013/09/Cast-30-Faelschungssicher.mp3
+    - num: 31
+      title: X/Y/Z
+      site: http://www.bisacast.de/2013/10/bisacast-31-xyz/
+      download: http://www.bisacast.de/wp-content/uploads/2013/10/Cast31XYZ.mp3
+    - num: 32
+      title: Viva la Evolución
+      site: http://www.bisacast.de/2013/10/bisacast-32-evolution/
+      download: http://www.bisacast.de/wp-content/uploads/2013/10/Cast32_Evolution.mp3
+    - num: 33
+      title: Schwing den Pinsel!
+      site: http://www.bisacast.de/2013/11/bisacast-33-schwing-den-pinsel/
+      download: http://www.bisacast.de/wp-content/uploads/2013/11/fanartcast.mp3
+    - num: 34
+      title: Die Legende lebt!
+      site: http://www.bisacast.de/2013/11/bisacast34-die-legende-lebt/
+      download: http://www.bisacast.de/wp-content/uploads/2013/11/Cast34_Legenden.mp3
+    - num: 35
+      title: Stadt, Land, Fluss
+      site: http://www.bisacast.de/2013/12/bisacast-35-stadt-land-fluss/
+      download: http://www.bisacast.de/wp-content/uploads/2013/12/Cast35_Stadt-Land-Fluss.mp3
+    - num: 36
+      title: Ein Abend unter dem Weihnachtsbaum
+      site: http://www.bisacast.de/2013/12/bisacast-36-ein-abend-unter-dem-weihnachtsbaum/
+      download: http://www.bisacast.de/wp-content/uploads/2013/12/Weihnachtscast.mp3
+    - num: 37
+      title: “Om-Nom-Nom”
+      site: http://www.bisacast.de/2014/01/bisacast-37-om-nom-nom/
+      download: http://www.bisacast.de/wp-content/uploads/2014/01/Cast37_OmNomNom.mp3
+    - num: 38
+      title: Im tiefen Untergrund
+      site: http://www.bisacast.de/2014/01/bisacast-38-im-tiefen-untergrund/
+      download: http://www.bisacast.de/wp-content/uploads/2014/01/BisaCast_38_Im-tiefen-Untergrund.mp3
+    - num: 39
+      title: "Die #39!"
+      site: http://www.bisacast.de/2014/02/bisacast-die-39/
+      download: http://www.bisacast.de/wp-content/uploads/2014/02/Die-39.mp3
+    - num: 40
+      title: "CassyCast #1 – Der Pony Cast"
+      site: http://www.bisacast.de/2014/02/cassycast_1_der_pony_cast/
+      download: http://www.bisacast.de/wp-content/uploads/2014/02/CassyCast1_Ponys.mp3
+    - num: 41
+      title: Pokémon Philosophie
+      site: http://www.bisacast.de/2014/03/bisacast-41-pokemon-philosophie/
+      download: http://www.bisacast.de/wp-content/uploads/2014/03/Cast41_Pokemonphilosophie.mp3
+    - num: 42
+      title: Spitze Spitznamen
+      site: http://www.bisacast.de/2014/03/bisacast-42-spitze-spitznamen/
+      download: http://www.bisacast.de/wp-content/uploads/2014/03/Cast-42-Spitznamen.mp3
+    - num: 43
+      title: Und ACTION!
+      site: http://www.bisacast.de/2014/04/bisacast-43-und-action/
+      download: http://www.bisacast.de/wp-content/uploads/2014/04/Cast43_Und-Aktion.mp3
+    - num: 44
+      title: Der Japantag
+      site: http://www.bisacast.de/2014/05/bisacast-44-der-japantag/
+      download: http://www.bisacast.de/wp-content/uploads/2014/05/BisaCast44_Japantag14.mp3
+    - num: 45
+      title: Fanprojekte
+      site: http://www.bisacast.de/2014/06/bisacast-45-fanprojekte/
+      download: http://www.bisacast.de/wp-content/uploads/2014/06/BisaCast45_Fanprojekte.mp3
+    - num: 46
+      title: Fanspiele
+      site: http://www.bisacast.de/2014/06/bisacast-46-fanspiele/
+      download: http://www.bisacast.de/wp-content/uploads/2014/06/Cast46_Fanspiele.mp3
+    - num: 47
+      title: Fantheorien
+      site: http://www.bisacast.de/2014/07/bisacast-47-fantheorien/
+      download: http://www.bisacast.de/wp-content/uploads/2014/07/BisaCast47-Fantheorien.mp3
+    - num: 48
+      title: BisaCast-Sommerolympiade
+      site: http://www.bisacast.de/2014/07/bisacast-48-bisacastsommerolympiade/
+      youtube: kJYhpLvtNZE
+    - num: 49
+      title: Pokémon auf Konsole!
+      site: http://www.bisacast.de/2014/09/bisacast-49-pokemon-auf-konsole/
+      download: http://www.bisacast.de/wp-content/uploads/2014/09/Cast49_Auf_Konsole.mp3
+    - num: 50
+      title: Böse Buben
+      site: http://www.bisacast.de/2014/09/bisacast-50-boese-buben/
+      download: http://www.bisacast.de/wp-content/uploads/2014/09/BisaCast_50_Boese-Buben_2.mp3
+    - num: 51
+      title: Cast der gebannten Dinge „2“
+      site: http://www.bisacast.de/2014/10/bisacast-51-gebannte-dinge/
+      download: http://www.bisacast.de/wp-content/uploads/2014/10/BisaCast51_Gebannte_Dinge2.mp3
+    - num: 52
+      title: Ingamespezial
+      site: http://www.bisacast.de/2014/10/bisacast-52-ingamespezial/
+      download: http://www.bisacast.de/wp-content/uploads/2014/10/Cast-52-Ingamespezial.mp3
+    - num: 53
+      title: Super Smash Bros.
+      site: http://www.bisacast.de/2014/11/bisacast-53-supersmashbros-spez/
+      download: https://www.bisacast.de/wp-content/uploads/2014/11/Cast53_SmashBros.mp3
+    - num: 54
+      title: PokéMusik
+      site: http://www.bisacast.de/2014/11/bisacast-54-pokemusik/
+      download: http://www.bisacast.de/wp-content/uploads/2014/11/Cast54_PokeMusik.mp3
+    - num: 55
+      title: "#+ß%&/-.["
+      site: http://www.bisacast.de/2014/12/bisacast-55-ss/
+      download: http://www.bisacast.de/wp-content/uploads/2014/12/Cast55_PokeHeiler.mp3
+    - num: 56
+      title: Weihnachten mit dem BisaCast
+      site: http://www.bisacast.de/2014/12/bisacast-56-weihnachten-mit-dem-bisacast/
+      download: http://www.bisacast.de/wp-content/uploads/2014/12/Cast56_Weihnachten.mp3
+    - num: 57
+      title: Zukunft von Pokémon
+      site: http://www.bisacast.de/2015/01/bisacast-57-zukunft-von-pokemon/
+      download: https://www.bisacast.de/wp-content/uploads/2015/01/Cast_57_Zukunft-Pokemon.mp3
+    - num: 58
+      title: Hoenn damals und heute
+      site: http://www.bisacast.de/2015/01/bisacast-58-hoenn-damals-und-heute/
+      download: http://www.bisacast.de/wp-content/uploads/2015/01/Cast58_Hoenn_damals_und_heute.mp3
+    - num: 59
+      title: Animal Crossing
+      site: http://www.bisacast.de/2015/02/bisacast-59-animal-crossing/
+      download: http://www.bisacast.de/wp-content/uploads/2015/02/BisaCast_59_Animal_Crossing.mp3
+    - num: 60
+      title: Attackendex
+      site: http://www.bisacast.de/2015/02/bisacast-60-attackendex/
+      download: https://www.bisacast.de/wp-content/uploads/2015/02/Cast_60_Attackendex.mp3
+    - num: 61
+      title: Pokémon-Biologie
+      site: http://www.bisacast.de/2015/03/bisacast-61-pokemon-biologie/
+      download: https://www.bisacast.de/wp-content/uploads/2015/03/Cast_61_PokeBio.mp3
+    - num: 62
+      title: “Pokémon-Liga” (Die Top 25)
+      site: http://www.bisacast.de/2015/03/bisacast-62-pokemon-liga-die-top-25/
+      download: https://www.bisacast.de/wp-content/uploads/2015/03/Cast62-Liga.mp3
+    - num: 63
+      title: Virtual Console
+      site: http://www.bisacast.de/2015/04/bisacast-63-virtual-console/
+      download: http://www.bisacast.de/wp-content/uploads/2015/04/Cast_63_VC.mp3
+    - num: 64
+      title: N64
+      site: http://www.bisacast.de/2015/05/bisacast-n64/
+      download: https://www.bisacast.de/wp-content/uploads/2015/05/Cast-N64.mp3
+    - num: 65
+      title: Blick In – Das Magazin
+      site: http://www.bisacast.de/2015/06/bisacast-65-blick-in-das-magazin/
+      download: http://www.bisacast.de/wp-content/uploads/2015/06/BisaCast65_BlickIn_Magazin.mp3
+    - num: 66
+      title: Pokemon in Bewegung²
+      site: http://www.bisacast.de/2015/06/bisacast-66-pokemon-in-bewegung/
+      download: https://www.bisacast.de/wp-content/uploads/2015/06/66-Bewegung.mp3
+    - num: 67
+      title: Lifestyle Kalos
+      site: http://www.bisacast.de/2015/07/bisacast-67-lifestyle-kalos/
+      download: http://www.bisacast.de/wp-content/uploads/2015/07/Cast67_Lifestyle.mp3
+    - num: 68
+      title: Random Facts
+      site: http://www.bisacast.de/2015/08/bisacast-68-random-facts/
+      youtube: kv9fIay2nvk
+    - num: 69
+      title: Super Mystery Dungeon – Unsere Erwartungen
+      site: http://www.bisacast.de/2015/09/bisacast-69-super-mystery-dungeon-unsere-erwartungen/
+      download: http://www.bisacast.de/wp-content/uploads/2015/09/Cast69_PokemonSMD.mp3
+    - num: 70
+      title: Evolutionäre Sackgassen
+      site: http://www.bisacast.de/2015/09/bisacast-70-evolutionaere-sackgassen/
+      download: http://www.bisacast.de/wp-content/uploads/2015/09/Cast70_Sackgassen.mp3
+    - num: 71
+      title: Die Sechste Generation
+      site: http://www.bisacast.de/2015/10/bisacast-71-die-sechste-generation/
+      download: http://www.bisacast.de/wp-content/uploads/2015/10/BiCa71_Gen6.mp3
+    - num: 72
+      title: Pokémon Origins
+      site: http://www.bisacast.de/2015/10/bisacast-72-pokemon-origins/
+      download: https://www.bisacast.de/wp-content/uploads/2015/10/Cast72_Origins.mp3
+    - num: 73
+      title: Japantagebuch²
+      site: http://www.bisacast.de/2015/10/bisacast-73-japantagebuch/
+      youtube: vI9f7cNon9c
+    - num: 74
+      title: Zwischen Miniröcken und Wettbewerben – Mädchen und Pokémon
+      site: https://www.bisacast.de/2015/11/bisacast-74-zwischen-schleifchen-miniroecken-und-wettbewerben-maedchen-und-pokemon/
+      download: http://www.bisacast.de/wp-content/uploads/2015/11/Cast74_Minirock.mp3
+    - num: 75
+      title: Der Zelda Cast
+      site: https://www.bisacast.de/2015/12/bisacast-75-der-zelda-cast/
+      download: http://www.bisacast.de/wp-content/uploads/2015/12/Cast75_Zelda.mp3
+    - num: 76
+      title: Frag doch mal den BisaCast
+      site: https://www.bisacast.de/2015/12/bisacast-76-frag-doch-mal-den-bisacast/
+      download: http://www.bisacast.de/wp-content/uploads/2015/12/Cast76_Frag_Mal.mp3
+    - num: 77
+      title: Pokémon 2016
+      site: https://www.bisacast.de/2016/01/bisacast-77-pokemon-2016/
+      download: https://www.bisacast.de/wp-content/uploads/2016/01/Cast77_Pokemon_2016.mp3
+    - num: 78
+      title: Ach du liebe Zeit!
+      site: https://www.bisacast.de/2016/02/bisacast-78-ach-du-liebe-zeit/
+      download: https://www.bisacast.de/wp-content/uploads/2016/02/Cast78_Zeit.mp3
+    - num: 79
+      title: Pokémon und Wir
+      site: https://www.bisacast.de/2016/02/bisacast-79-pokemon-und-wir/
+      download: https://www.bisacast.de/wp-content/uploads/2016/02/Cast79_Jubilaeum.mp3
+    - num: 80
+      title: Gerüchteeintopf Sonne & Mond
+      site: https://www.bisacast.de/2016/03/bisacast-80-geruechteeintopf-sonne-mond/
+      download: https://www.bisacast.de/wp-content/uploads/2016/03/Cast80_SMGerüchte.mp3
+- name: BiCaMini
+  casts:
+    - num: 1
+      title: Was ist Bisafans.de?
+      site: https://www.bisacast.de/bisaminicast1_was-ist-bisafans/
+      download: https://www.bisacast.de/wp-content/uploads/2012/12/BisaMiniCast1_Was-ist-Bisafans.mp3
+    - num: 2
+      title: Was ist Pokémon?
+      site: https://www.bisacast.de/bisaminicast2_was-ist-pokemon/
+      download: https://www.bisacast.de/wp-content/uploads/2012/12/BisaMiniCast2_Was-ist-Pokemon.mp3
+    - num: 3
+      title: Das Pokémon Traumradar!
+      download: http://www.bisacast.de/wp-content/uploads/2013/06/BiCaMini-3-Traumradar.mp3
+    - num: 4
+      title: Der Pokédex 3D Pro!
+      download: http://www.bisacast.de/wp-content/uploads/2013/06/BiCaMini-4-Pokédex3dpro.mp3
+    - num: 5
+      title: Die Spielmesse in Essen und Amigo!
+      youtube: rFWgpwzWX9k
+- name: SonderCast
+  casts:
+    - title: Schwarz2 / Weiß 2
+      site: http://www.bisacast.de/2012/07/sondercast-zu-schwarz2weis2/
+      download: http://www.bisacast.de/wp-content/uploads/2012/07/BW2_Special.mp3
+    - title: Pokémonstimmen Director’s Cut
+      site: http://www.bisacast.de/2013/01/pokemonstimmen-directors-cut/
+      download: http://www.bisacast.de/wp-content/uploads/2013/01/Pokemonstimmen_Directors_Cut.mp3
+    - title: Cassy an die Macht
+      site: http://www.bisacast.de/2013/04/machtwechsel-beim-bisacast/
+      download: http://www.bisacast.de/wp-content/uploads/2013/03/April-April_OTMitte.mp3
+    - title: BisaCast Lv.3 wir ein Jahr alt
+      site: http://www.bisacast.de/2013/06/ein-jahr-level-drei/
+      download: http://www.bisacast.de/wp-content/uploads/2013/06/PokestimmenGen2.mp3
+    - title: Die Outtakewoche (Teil 1)
+      site: http://www.bisacast.de/2013/07/bisaquatsch-die-outtakewoche-teil-1/
+      download: http://www.bisacast.de/wp-content/uploads/2013/06/Outtakewoche_Montag.mp3
+    - title: Die Outtakewoche (Teil 2)
+      site: http://www.bisacast.de/2013/07/bisaquatsch-die-outtakewoche-teil-2/
+      download: http://www.bisacast.de/wp-content/uploads/2013/06/Outtakewoche_Dienstag.mp3
+    - title: Die Outtakewoche (Teil 3)
+      site: http://www.bisacast.de/2013/07/bisaquatsch-die-outtakewoche-teil-3/
+      download: http://www.bisacast.de/wp-content/uploads/2013/06/Outtakewoche_Mittwoch.mp3
+    - title: Die Outtakewoche (Teil 4)
+      site: http://www.bisacast.de/2013/07/bisaquatsch-die-outtakewoche-teil-4/
+      download: http://www.bisacast.de/wp-content/uploads/2013/06/Outtakewoche_Donnerstag.mp3
+    - title: Die Outtakewoche (Teil 5)
+      site: http://www.bisacast.de/2013/07/bisaquatsch-die-outtakewoche-das-finale/
+      download: http://www.bisacast.de/wp-content/uploads/2013/06/Outtakewoche_Freitag_Finale.mp3
+    - title: Der erste deutsche Podcast mit der BisaSchau!
+      site: http://www.bisacast.de/2014/01/and-the-oscar-goes-to/
+      download: http://www.bisacast.de/wp-content/uploads/2014/01/BisaSchau_Silvestergewinnspiel.mp3
+    - title: Bisacast feat. Amigo Organized Play Podcast! (1)
+      site: http://www.bisacast.de/2014/02/release-14-2-1400-uhr/
+      youtube: YpXZskhW3XU
+    - title: Bisacast feat. Amigo Organized Play Podcast! (2)
+      site: http://www.bisacast.de/2014/09/bisacast-wir-50-amigo-feiert-mit/
+      youtube: QNUr_50YiR4
+    - title: Bisafans im neuen Outfit
+      site: http://www.bisacast.de/2014/12/was-ist-denn-mit-bisafans-passiert/
+      download: http://www.bisacast.de/wp-content/uploads/2014/12/Sondercast_mit_Aka.mp3
+    - title: Best of Teamkonfi 2014
+      site: http://www.bisacast.de/2015/01/best-of-teamkonfi-2014/
+      download: https://www.bisacast.de/wp-content/uploads/2015/01/Teamkonfi-BestOf_2014.mp3
+    - title: Auf der Suche nach neuen Pokémon-Trainern (DÖM 2015)
+      site: http://www.bisacast.de/2015/06/auf-der-suche-nach-neuen-pokemon-trainern-doem-2015/
+      youtube: zd8RGwEs0rM
+- name: BisaCast OnToUr
+  casts:
+    - title: Pokéday 2012 – München
+      site: http://www.bisacast.de/2012/09/pokemonday-munchen-noch-nicht-veroffentlicht/
+      youtube: 9mMUCvhgw-I
+    - title: Pokéday 2012 – Oberhausen
+      site: http://www.bisacast.de/2012/10/der-pokemonday-in-oberhausen/
+      youtube: v4GmwCzCB3w
+    - title: "Im Interview: Robert"
+      site: http://www.bisacast.de/2013/02/missingno/
+      download: http://www.bisacast.de/wp-content/uploads/2013/01/Interview-Robert.mp3
+    - title: "Im Interview: Oli.P"
+      site: http://www.bisacast.de/2013/10/das-war-mal-wieder-ein-schuss-in-den-ofen/
+      download: http://www.bisacast.de/wp-content/uploads/2013/10/BiCaLv3-Interview-Oli_P_Audio.mp3
+    - title: Deutsche Pokémonmeisterschaft 2013
+      site: http://www.bisacast.de/2013/06/bisacast-pnc/
+      youtube: HXyqcdyyei8
+    - title: AnimagiC 2013
+      site: http://www.bisacast.de/2013/08/cassy-und-nille-machen-die-animagic-unsicher/
+      youtube: 7CvE2BaYa5I
+    - title: Pokéday 2013 – Frankfurt
+      site: http://www.bisacast.de/2013/09/der-pokemon-day-2013-in-frankfurt/
+      youtube: jrzyvS3sthA
+    - title: Pokéday 2013 – Hamburg
+      site: http://www.bisacast.de/2013/10/der-pokemon-day-2013-in-hamburg/
+      youtube: http://www.youtube.com/watch?v=2RBT0f7vpqI
+    - title: Pokéday 2013 – Berlin
+      site: http://www.bisacast.de/2013/10/das-grosse-pokemondayfinale-in-berlin-2013/
+      youtube: pMQm1g2w4zc
+    - title: AnimagiC 2014
+      site: http://www.bisacast.de/2014/08/alle-jahre-wieder-die-animagic-2014/
+      youtube: NyZcvNW0dl0
+    - title: AniNite 2014
+      site: http://www.bisacast.de/2014/09/auf-nach-oesterreich-auf-gehts-zur-aninite/
+      download: http://www.bisacast.de/wp-content/uploads/2014/09/Aninite-Cast.mp3
+    - title: SPIEL’14 in Essen
+      site: http://www.bisacast.de/2014/11/der-bisacast-auf-der-spiel-2014-in-essen/
+      youtube: J7MF0mxNjsI
+    - title: Arena-Cup 2015 in Salzburg
+      site: http://www.bisacast.de/2015/03/arena-cup-2015-in-salzburg/
+      youtube: -BwXcdgImFw
+- name: BisaCast testet an
+  casts:
+    - title: Pokémon Weiß 2
+      site: http://www.bisacast.de/2012/10/weis-2-review-of-awe/
+      download: http://www.bisacast.de/wp-content/uploads/2012/10/CassysRezension.mp3
+    - title: "Pokémon Mystery Dungeon: Portale in die Unendlichkeit – Teil 1: Einführung und Allgemeines"
+      site: http://www.bisacast.de/2013/05/pokemon-mystery-dungeon-portale-in-die-unendlichkeit-teil-1-einfuhrung-und-allgemeines/
+      download: http://www.bisacast.de/wp-content/uploads/2013/05/PMD-Spezial_1-Intro.m4v
+    - title: "Pokémon Mystery Dungeon: Portale in die Unendlichkeit – Teil 2: Die Charaktere"
+      site: http://www.bisacast.de/2013/05/pokemon-mystery-dungeon-portale-in-die-unendlichkeit-teil-2-die-charaktere
+      download: http://www.bisacast.de/wp-content/uploads/2013/05/PMD-Spezial_2-Charas.mp4
+    - title: "Pokémon Mystery Dungeon: Portale in die Unendlichkeit – Teil 3: Story und Gameplay"
+      site: http://www.bisacast.de/2013/05/pokemon-mystery-dungeon-portale-in-die-unendlichkeit-teil-3-story-und-gameplay
+      download: http://www.bisacast.de/wp-content/uploads/2013/05/PMD-Portale-3.avi
+    - title: "Pokémon Mystery Dungeon: Portale in die Unendlichkeit – Teil 4: Magnaportale"
+      site: http://www.bisacast.de/2013/05/pokemon-mystery-dungeon-portale-in-die-unendlichkeit-teil-4-magnaportale
+      download: http://www.bisacast.de/wp-content/uploads/2013/05/PMD-Portale-Magnagates.avi
+    - title: "Pokémon Mystery Dungeon: Portale in die Unendlichkeit – Teil 5: Resumee"
+      site: http://www.bisacast.de/2013/05/pokemon-mystery-dungeon-portale-in-die-unendlichkeit-teil-5-resumee
+      download: http://www.bisacast.de/wp-content/uploads/2013/05/PMD-Portale-5-Resumee.avi
+    - title: "Animal Crossing: New Leaf"
+      site: http://www.bisacast.de/aktionen/archiv/animal-crossing/
+      youtube: 9p7tlSIWXjQ
+    - title: "Demo: Pokémon X (Teil 1)"
+      site: http://www.bisacast.de/2013/09/der-bisacast-demonstriert-pokemon-x/
+      youtube: zCnX589bpFw
+    - title: "Demo: Pokémon X (Teil 2)"
+      site: http://www.bisacast.de/2013/09/der-bisacast-demonstriert-pokemon-x/
+      youtube: XHMP5tfEJqw
+    - title: "Vollversion: Pokémon X"
+      site: http://www.bisacast.de/2013/10/die-naechste-generation-pokemon-testbericht-zu-pokemon-x-und-y/
+      download: http://www.bisacast.de/wp-content/uploads/2013/10/Testbericht_XY_Audio.mp3
+    - title: Super Mario 3D World
+      site: http://www.bisacast.de/2014/04/super-bisacast-3d-world/
+      youtube: MoobNZVRbtA
+    - title: Donkey Kong Country – Tropical Freeze
+      site: http://www.bisacast.de/2014/05/review-donkey-kong-country-tropical-freeze/
+      youtube: Q_opuCTvbRE
+    - title: Tomodachi Life
+      site: http://www.bisacast.de/2014/06/review-tomodachi-life/
+      youtube: taUKoBiROa8
+    - title: MarioKart 8
+      site: http://www.bisacast.de/2014/07/review-mario-kart-8/
+      youtube: iZCYfERNzl4
+    - title: Pokémon OmegaRubin und AlphaSaphir
+      site: http://www.bisacast.de/2014/11/erste-eindruecke-von-omega-rubin-und-alpha-saphir/
+      youtube: -CSqVXVu2qE
+- name: LiveCast
+  casts:
+    - title: LiveCast zu Schwarz2 / Weiß 2
+      site: http://www.bisacast.de/2012/10/bisacast-livechat-zu-schwarz-2weis-2/
+      youtube: 7hMIOIYuXmc
+    - title: "LiveCast zu Mystery Dungeon: Portale in die Unendlichkeit"
+      site: http://www.bisacast.de/2013/05/livechat-zu-pmd-portale-in-die-unendlichkeit/
+      download: http://www.bisacast.de/wp-content/uploads/2013/05/LivecastPMD.mp3
+    - title: LiveCast zu Pokémon X und Y
+      site: http://www.bisacast.de/2013/12/frohe-weihnachten-der-livecast-mitschnitt-als-geschenk/
+      download: http://www.bisacast.de/wp-content/uploads/2013/12/Livecast-XY.mp3
+    - title: LiveCast zu Pokémon ΩR und αS
+      site: http://www.bisacast.de/2014/12/livecast-zu-pokemon-omega-rubin-und-alpha-saphir/
+      download: http://www.bisacast.de/wp-content/uploads/2014/12/ORAS_Livecast.mp3
+- name: Hörspiel
+  casts:
+    - title: Auf ans Indigo-Plateau! [Teil1]
+      site: http://www.bisacast.de/2012/10/auf-ans-indigo-plateau-bisacast-horspiel-teil-1/
+      download: http://www.bisacast.de/wp-content/uploads/2012/10/Hoerspiel-teil-1.mp3
+    - title: Auf ans Indigo-Plateau! [Teil2]
+      site: http://www.bisacast.de/2012/10/weiter-gehts-am-indigo-plateau-bisacast-horspiel-teil-2/
+      download: http://www.bisacast.de/wp-content/uploads/2012/10/Hoerspiel-Indigo-Teil-2.mp3
+    - title: Jetzt wird es Kalos! [Teil1]
+      site: http://www.bisacast.de/2014/04/bisacast-hoerspiel-jetzt-wird-es-kalos-teil-1/
+      download: http://www.bisacast.de/wp-content/uploads/2014/04/BisaCast_Hoerspiel_Jetzt-wird-es-Kalos-Teil1.mp3
+    - title: Jetzt wird es Kalos! [Teil2]
+      site: http://www.bisacast.de/2014/05/bisacast-hoerspiel-jetzt-wird-es-kalos-teil-2/
+      download: http://www.bisacast.de/wp-content/uploads/2014/04/BisaCast_Hoerspiel_Jetzt-wird-es-Kalos-Teil2.mp3
+    - title: Wandel der Zeiten – Bündnis der Sechs [Teil1]
+      site: http://www.bisacast.de/2015/04/bisacast-hoerspiel-wandel-der-zeiten-buendnis-der-sechs/
+      download: http://www.bisacast.de/wp-content/uploads/2015/04/BiCaLv3-Wandel-der-Zeiten-Buendnis-der-Sechs.mp3
+    - title: Wandel der Zeiten – Bündnis der Fünf [Teil2]
+      site: http://www.bisacast.de/2015/05/bisacast-hoerspiel-wandel-der-zeiten-buendnis-der-fuenf-teil-2/
+      download: https://www.bisacast.de/wp-content/uploads/2015/05/BiCaLv3-Wandel-der-Zeiten-Buendnis-der-Fuenf.mp3

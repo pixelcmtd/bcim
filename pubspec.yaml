@@ -1,0 +1,9 @@
+name: bcim
+
+environment:
+  sdk: '>=2.15.1 <3.0.0'
+
+dependencies:
+  html_search: ^0.2.0
+  schttp: ^4.1.0
+  yaml: ^3.1.0
