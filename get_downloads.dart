@@ -11,7 +11,7 @@ void main(List<String> arguments) async {
     for (final cast in cat['casts']) {
       if (!cast.containsKey('download') && !cast.containsKey('youtube')) {
         print(cast['site']);
-        parse(await ScHttpClient().get(cast['site']))
+        htmlParse(await ScHttpClient().get(cast['site']))
             .map((e) =>
                 e.getElementsByTagName('a').map((e) => e.attributes['href']))
             .reduce((x, y) => [...x, ...y])
