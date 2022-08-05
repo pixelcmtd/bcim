@@ -3,7 +3,7 @@ import 'dart:io';
 
 import 'package:html_search/html_search.dart';
 import 'package:yaml/yaml.dart';
-import 'package:schttp/schttp.dart';
+import 'package:http/http.dart';
 
 void main(List<String> arguments) async {
   final casts = loadYaml(File('casts.yaml').readAsStringSync());
@@ -11,7 +11,7 @@ void main(List<String> arguments) async {
     for (final cast in cat['casts']) {
       if (!cast.containsKey('download') && !cast.containsKey('youtube')) {
         print(cast['site']);
-        htmlParse(await ScHttpClient().get(cast['site']))
+        htmlParse((await get(Uri.parse(cast['site']))).body)
             .map((e) =>
                 e.getElementsByTagName('a').map((e) => e.attributes['href']))
             .reduce((x, y) => [...x, ...y])

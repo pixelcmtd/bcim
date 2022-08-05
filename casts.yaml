@@ -151,7 +151,7 @@
       site: http://www.bisacast.de/2013/09/bisacast-30-faelschungssicher/
       download: http://www.bisacast.de/wp-content/uploads/2013/09/Cast-30-Faelschungssicher.mp3
     - num: 31
-      title: X/Y/Z
+      title: X Y Z
       site: http://www.bisacast.de/2013/10/bisacast-31-xyz/
       download: http://www.bisacast.de/wp-content/uploads/2013/10/Cast31XYZ.mp3
     - num: 32
@@ -247,7 +247,7 @@
       site: http://www.bisacast.de/2014/11/bisacast-54-pokemusik/
       download: http://www.bisacast.de/wp-content/uploads/2014/11/Cast54_PokeMusik.mp3
     - num: 55
-      title: "#+ß%&/-.["
+      title: "#+ß%& -.[ (Heiler)"
       site: http://www.bisacast.de/2014/12/bisacast-55-ss/
       download: http://www.bisacast.de/wp-content/uploads/2014/12/Cast55_PokeHeiler.mp3
     - num: 56
@@ -371,7 +371,7 @@
       youtube: rFWgpwzWX9k
 - name: SonderCast
   casts:
-    - title: Schwarz2 / Weiß 2
+    - title: Schwarz 2 Weiß 2
       site: http://www.bisacast.de/2012/07/sondercast-zu-schwarz2weis2/
       download: http://www.bisacast.de/wp-content/uploads/2012/07/BW2_Special.mp3
     - title: Pokémonstimmen Director’s Cut
