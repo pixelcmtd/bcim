@@ -1,12 +1,9 @@
 // usage: dart run get_downloads.dart | stdbuf -o0 -i0 uniq | tee monkaẞ
-import 'dart:io';
-
+import 'lib.dart';
 import 'package:html_search/html_search.dart';
-import 'package:yaml/yaml.dart';
 import 'package:http/http.dart';
 
 void main(List<String> arguments) async {
-  final casts = loadYaml(File('casts.yaml').readAsStringSync());
   for (final cat in casts) {
     for (final cast in cat['casts']) {
       if (!cast.containsKey('download') && !cast.containsKey('youtube')) {
