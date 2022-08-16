@@ -12,7 +12,7 @@ void main(List<String> arguments) async {
           print('Downloading "${cast['title']}" using yt-dlp');
           print(await Process.run('sh', [
             '-c',
-            'cd ${dir.path} && yt-dlp -f bv+ba youtu.be/${cast['youtube']}'
+            'cd \'${dir.path}\' && yt-dlp -f bv+ba youtu.be/${cast['youtube']}'
           ]).then((p) => p.stdout));
         } else {
           final f = file(dir, cast);

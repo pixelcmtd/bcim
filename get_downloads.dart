@@ -2,6 +2,7 @@
 import 'lib.dart';
 import 'package:html_search/html_search.dart';
 import 'package:http/http.dart';
+import 'package:where_not_null/where_not_null.dart';
 
 void main(List<String> arguments) async {
   for (final cat in casts) {
@@ -12,8 +13,7 @@ void main(List<String> arguments) async {
             .map((e) =>
                 e.getElementsByTagName('a').map((e) => e.attributes['href']))
             .reduce((x, y) => [...x, ...y])
-            .where((x) => x != null)
-            .map<String>((x) => x!)
+            .whereNotNull()
             .where((x) =>
                 (x.contains('bisacast') &&
                     x.contains('mp3') &&

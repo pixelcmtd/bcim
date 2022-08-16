@@ -5,5 +5,6 @@ environment:
 
 dependencies:
   html_search: ^0.3.0
-  http: ^0.13.4
+  http: ^0.13.5
+  where_not_null: ^1.0.0
   yaml: ^3.1.1
