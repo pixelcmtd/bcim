@@ -19,18 +19,16 @@ Future processAudio(String cmd, String outname, [String ext = '.opus']) =>
             .where((cast) =>
                 !cast.containsKey('youtube') &&
                 !file(outdir, cast, ext).existsSync())
-            .map((cast) =>
-                // TODO: use list
-                cmd
-                    .replaceAll('%in', file(indir, cast).path)
-                    .replaceAll('%album', cat['name'])
-                    .replaceAll('%title', cast['title'])
-                    .replaceAll(
-                        '%nummeta',
-                        cast['num'] != null
-                            ? '-metadata \'track=${cast['num']}\''
-                            : '')
-                    .replaceAll('%out', file(outdir, cast, ext).path))
+            .map((cast) => cmd
+                .replaceAll('%in', file(indir, cast).path)
+                .replaceAll('%out', file(outdir, cast, ext).path)
+                .replaceAll(
+                    '%metadata',
+                    '-metadata artist=BisaCast '
+                        '-metadata \'album=${cat['name']}\' '
+                        '-metadata \'title=${cast['title']}\' '
+                        '${cast['num'] != null ? '-metadata \'track=${cast['num']}\' ' : ''}'
+                        '-metadata genre=Podcast'))
             .map<Future<Process>>((cmd) {
           print(cmd);
           return Process.start('sh', ['-c', cmd]);
