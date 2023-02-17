@@ -7,7 +7,7 @@ final casts = loadYaml(File('casts.yaml').readAsStringSync());
 File file(Directory dir, cast, [String? ext]) => File((cast.containsKey('num')
         ? '${dir.path}/${cast['num'].toString().padLeft(2, '0')} ${cast['title']}'
         : '${dir.path}/${cast['title']}') +
-    (ext ?? (cast['download'].endsWith('.m4a') ? '.m4a' : '.mp3')));
+    (ext ?? ('.${cast['download'].split('.').last}')));
 
 Future processAudio(String cmd, String outname, [String ext = '.opus']) =>
     Future.wait(casts.map<Future>((cat) {
