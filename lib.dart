@@ -1,4 +1,3 @@
-import 'dart:convert';
 import 'dart:io';
 
 import 'package:yaml/yaml.dart';
@@ -9,35 +8,23 @@ File file(Directory dir, cast, [String? ext]) => File((cast.containsKey('num')
         : '${dir.path}/${cast['title']}') +
     (ext ?? ('.${cast['download'].split('.').last}')));
 
-Future processAudio(String cmd, String outname, [String ext = '.opus']) =>
-    Future.wait(casts.map<Future>((cat) {
-      final indir = Directory('raw/${cat['name']}');
-      return Directory('$outname/${cat['name']}')
-          .create(recursive: true)
-          .then((outdir) async {
-        for (final f in cat['casts']
-            .where((cast) =>
-                !cast.containsKey('youtube') &&
-                !file(outdir, cast, ext).existsSync())
-            .map((cast) => cmd
-                .replaceAll('%in', file(indir, cast).path)
-                .replaceAll('%out', file(outdir, cast, ext).path)
-                .replaceAll(
-                    '%metadata',
-                    '-metadata artist=BisaCast '
-                        '-metadata \'album=${cat['name']}\' '
-                        '-metadata \'title=${cast['title']}\' '
-                        '${cast['num'] != null ? '-metadata \'track=${cast['num']}\' ' : ''}'
-                        '-metadata genre=Podcast'))
-            .map<Future<Process>>((cmd) {
-          print(cmd);
-          return Process.start('sh', ['-c', cmd]);
-        })) {
-          final p = await f;
-          final ec = await p.exitCode;
-          p.stderr.transform(utf8.decoder).forEach(print);
-          p.stdout.transform(utf8.decoder).forEach(print);
-          if (ec != 0) return;
-        }
-      });
-    }));
+Iterable<
+    String> _getCommands(cat, String cmd, String outname, String ext) => cat[
+        'casts']
+    .where((cast) => !cast.containsKey('youtube'))
+    .map((cast) => cmd
+        .replaceAll('%in', file(Directory('raw/${cat['name']}'), cast).path)
+        .replaceAll(
+            '%out', file(Directory('$outname/${cat['name']}'), cast, ext).path)
+        .replaceAll(
+            '%metadata',
+            '-metadata artist=BisaCast '
+                '-metadata \'album=${cat['name']}\' '
+                '-metadata \'title=${cast['title']}\' '
+                '${cast['num'] != null ? '-metadata \'track=${cast['num']}\' ' : ''}'
+                '-metadata genre=Podcast -n -hide_banner'))
+    .map<String>((cmd) => 'mkdir -p \'$outname/${cat['name']}\' && $cmd');
+
+Iterable<String> getAllCommands(String cmd, String outname, String ext) => casts
+    .map<Iterable<String>>((cat) => _getCommands(cat, cmd, outname, ext))
+    .reduce((Iterable<String> a, Iterable<String> b) => [...a, ...b]);
